@@ -9,3 +9,5 @@ Saving image using matplotlib in python : https://stackoverflow.com/questions/96
 SheetJS Youtube link for converting Excel into HTML Tables : https://www.youtube.com/watch?v=FymC0XlK0Gs
 
 The substitute is to just Embed the excel file on the website.
+
+Another solution is to save the Excel file as a web page and then update and save it as web page when the new data arrives.
